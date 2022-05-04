@@ -1,0 +1,17 @@
+.conteiner {
+    width: 300px;
+    background-color: green;
+    box-sizing: border-box;
+    position: relative;
+    }
+    .conteiner__element {
+        margin: 30px;
+        border-right: 20px solid red;
+        border-left: 30px solid rgb(10, 24, 10);
+        border-top: 45px solid royalblue;
+        border-bottom: 15px solid rebeccapurple;
+        padding: 70px;
+        height: 80%;
+        background-color: blue;
+        box-sizing: border-box;
+    }
