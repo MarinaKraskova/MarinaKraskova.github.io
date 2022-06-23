@@ -1,0 +1,28 @@
+body {
+    padding: 40px;
+    width: 600px;
+    height: auto;
+    width: 80%;
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
+
+:root {
+    --primariy-color:rgb(23, 3, 3);
+}
+h1 {
+    font-size: 50px;
+    color: var(--primary-color);
+    
+}
+p {
+    font-size: 30px;
+    color: var(--primary-color);
+}
+
+.custum-color {
+    font-size: 40px;
+    color: blue;
+}
+
+
